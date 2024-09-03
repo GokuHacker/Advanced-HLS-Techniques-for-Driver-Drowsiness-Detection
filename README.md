@@ -37,18 +37,6 @@ This project demonstrates the effectiveness of applying advanced HLS techniques 
 - **Real-World Testing**: Deploy the optimized model in real-world scenarios to evaluate its effectiveness in diverse conditions.
 - **Integration**: Integrate the optimized model into automotive safety systems for real-time drowsiness detection.
 
-## **Repository Structure**
-
-- `src/`: Source code of the CNN model and HLS optimization scripts.
-- `docs/`: Documentation files and detailed reports on optimization techniques and performance metrics.
-- `test/`: Test cases and benchmarks used to validate the optimized model.
-
-## **How to Run**
-
-1. Clone this repository.
-2. Follow the instructions in the `docs/` directory to set up the HLS environment.
-3. Run the provided scripts in the `src/` directory to apply the optimizations.
-
 ## **License**
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
